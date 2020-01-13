@@ -33,5 +33,9 @@
   },
   "name": "emit-promise",
   "description": "Promisified socket.io acknowledgement callbacks.",
-  "funding": "https://github.com/sponsors/jaid"
+  "funding": "https://github.com/sponsors/jaid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaid/emit-promise"
+  }
 }
