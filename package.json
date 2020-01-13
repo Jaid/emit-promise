@@ -32,5 +32,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "emit-promise",
-  "description": "Promisified socket.io acknowledgement callbacks."
+  "description": "Promisified socket.io acknowledgement callbacks.",
+  "funding": "https://github.com/sponsors/jaid"
 }
