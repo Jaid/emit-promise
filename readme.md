@@ -1,9 +1,9 @@
 # emit-promise
 
 
-<a href="https://raw.githubusercontent.com/Jaid/emit-promise/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/emit-promise?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/emit-promise/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Femit-promise%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/emit-promise/commits"><img src="https://img.shields.io/github/commits-since/Jaid/emit-promise/v3.1.1?style=flat-square&logo=github" alt="Commits since v3.1.1"/></a> <a href="https://github.com/Jaid/emit-promise/commits"><img src="https://img.shields.io/github/last-commit/Jaid/emit-promise?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/emit-promise/issues"><img src="https://img.shields.io/github/issues/Jaid/emit-promise?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/emit-promise"><img src="https://img.shields.io/npm/v/emit-promise?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/emit-promise/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/emit-promise?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/emit-promise"><img src="https://img.shields.io/npm/dm/emit-promise?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/emit-promise/master/license.txt"><img src="https://img.shields.io/github/license/jaid/emit-promise?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor emit-promise"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/emit-promise/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Femit-promise%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/emit-promise/commits"><img src="https://img.shields.io/github/commits-since/jaid/emit-promise/v3.1.1?style=flat-square&logo=github" alt="Commits since v3.1.1"/></a> <a href="https://github.com/jaid/emit-promise/commits"><img src="https://img.shields.io/github/last-commit/jaid/emit-promise?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/emit-promise/issues"><img src="https://img.shields.io/github/issues/jaid/emit-promise?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/emit-promise"><img src="https://img.shields.io/npm/v/emit-promise?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/emit-promise/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/emit-promise?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/emit-promise"><img src="https://img.shields.io/npm/dm/emit-promise?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **Promisified socket.io acknowledgement callbacks.**
 
@@ -41,14 +41,13 @@ yarn add emit-promise@^3.1.1
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/emit-promise.git
+git clone git@github.com:jaid/emit-promise.git
 cd emit-promise
 npm install
 ```
