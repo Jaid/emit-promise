@@ -38,5 +38,17 @@
     "url": "https://github.com/jaid/emit-promise"
   },
   "homepage": "https://github.com/Jaid/emit-promise",
-  "keywords": []
+  "keywords": [
+    "emit",
+    "emit-promise",
+    "lib",
+    "library",
+    "node",
+    "promise",
+    "socket",
+    "socket-io",
+    "util",
+    "utility",
+    "websocket"
+  ]
 }
